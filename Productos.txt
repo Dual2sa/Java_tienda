@@ -1,0 +1,8 @@
+Leche;2000;5
+Pan;1000;10
+Frutas;2500;15
+Chocolate;5000;3
+Azucar;2000;4
+Sal;2500;10
+DocenaHuevos;4300;10
+Galletas;1800;5

@@ -1,0 +1,6 @@
+pedro;gerente;14122
+ana;secretaria;78945
+juan;cajero;12345
+maria;cajero;47512
+pablo;cajero;41413
+
